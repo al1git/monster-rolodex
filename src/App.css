@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.App .header {
+  font-family: 'Mansalva', cursive;
+  font-size: 5rem;
+  color: #09d3ac;
+}
